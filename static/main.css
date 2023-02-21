@@ -5,9 +5,9 @@ html, body {
 
 .container {
   margin: 0 auto;
-  width: 100px;
-  height: 100px;
-  backgroung-color: #006666;
+  width: 100%;
+  height: 100%;
+  background-color: #006666;
   color: #e6ffff;
   overflow: hidden;
   text-align: center;
